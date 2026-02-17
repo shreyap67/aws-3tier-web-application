@@ -2,7 +2,7 @@
 Production-ready 3-tier web application deployed on AWS using S3, CloudFront, ALB, EC2, and RDS.
 # AWS 3-Tier Web Application
 
-## 📖 Project Overview
+##  Project Overview
 
 This project demonstrates a production-style 3-tier web architecture deployed on AWS.
 
@@ -16,7 +16,7 @@ It includes:
 
 ---
 
-## 🏗 Architecture
+##  Architecture
 
 User  
 ↓  
@@ -32,7 +32,7 @@ RDS (MySQL - Private Subnet)
 
 ---
 
-## 🧱 AWS Services Used
+##  AWS Services Used
 
 - Amazon S3 (Static Website Hosting)
 - Amazon CloudFront (CDN)
@@ -45,7 +45,7 @@ RDS (MySQL - Private Subnet)
 
 ---
 
-## 🔐 Security Architecture
+##  Security Architecture
 
 - RDS is deployed in a private subnet
 - Database is NOT publicly accessible
@@ -55,7 +55,7 @@ RDS (MySQL - Private Subnet)
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - Fully functional 3-tier architecture
 - CloudFront behavior routing (`/api/*`)
@@ -66,7 +66,7 @@ RDS (MySQL - Private Subnet)
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 (Add your screenshots inside a /screenshots folder)
 
@@ -80,7 +80,7 @@ RDS (MySQL - Private Subnet)
 
 ---
 
-## 🛠 Backend Tech Stack
+##  Backend Tech Stack
 
 - Node.js
 - Express.js
@@ -89,7 +89,7 @@ RDS (MySQL - Private Subnet)
 
 ---
 
-## 🌍 How It Works
+##  How It Works
 
 1. User accesses CloudFront URL.
 2. CloudFront serves frontend from S3.
@@ -100,7 +100,7 @@ RDS (MySQL - Private Subnet)
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - Add HTTPS listener on ALB using ACM
 - Implement Auto Scaling Group
@@ -109,6 +109,6 @@ RDS (MySQL - Private Subnet)
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Shreya Pk
