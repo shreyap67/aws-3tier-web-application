@@ -68,8 +68,6 @@ RDS (MySQL - Private Subnet)
 
 ##  Screenshots
 
-(Add your screenshots inside a /screenshots folder)
-
 - Architecture Diagram
 - S3 Bucket Configuration
 - CloudFront Distribution
