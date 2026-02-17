@@ -98,15 +98,6 @@ RDS (MySQL - Private Subnet)
 
 ---
 
-##  Future Improvements
-
-- Add HTTPS listener on ALB using ACM
-- Implement Auto Scaling Group
-- Add CI/CD using GitHub Actions
-- Add custom domain with Route 53
-
----
-
 ##  Author
 
 Shreya Pk
